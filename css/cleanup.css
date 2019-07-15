@@ -6,7 +6,7 @@ div#wall div.tag-1{
   display: none;
 }
 
-div#wall div.tag-2{
+div#wall div#tag-2{
   background: url(../images/tag-2.png) no-repeat;
   z-index: 6;
   display: none;
